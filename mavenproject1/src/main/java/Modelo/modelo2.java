@@ -10,4 +10,8 @@ package Modelo;
  */
 public class modelo2 {
     
+    public String seudonimo;
+    
+    
+    
 }
