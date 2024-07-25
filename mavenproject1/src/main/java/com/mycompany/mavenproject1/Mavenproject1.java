@@ -16,9 +16,10 @@ public class Mavenproject1 {
         
         Scanner lector= new Scanner (System.in);
         
+        System.out.println("Verificación que no seas down");
         System.out.println("Pulse enter para empezar con el programa");
         lector.nextLine();
-        System.out.println("Hello World!");
+        System.out.println("Felicidades, no lo eres");
         
     }
 }
