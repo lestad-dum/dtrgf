@@ -8,6 +8,10 @@ package Controlador;
  *
  * @author LAB-USR-LNORTE
  */
-public class Controlador3 {
+public class menuprogramador {
+    
+    public void inicioprogramador(){
+        
+    }
     
 }
