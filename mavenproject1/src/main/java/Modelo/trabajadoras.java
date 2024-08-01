@@ -22,13 +22,13 @@ public class trabajadoras {
     public trabajadoras(String [] trabajadoras)  {
             
         this.nombre=trabajadoras[0];
-        this.direccion=trabajadoras[1];
-        this.dni=trabajadoras[2];
-        this.cuentabancaria= Double.parseDouble(trabajadoras[3]);
-        this.numero= Double.parseDouble(trabajadoras[4]); 
-        this.seudonimo=trabajadoras[5];
-        this.precio= Double.parseDouble(trabajadoras[6]);
-        this.edad= Integer.parseInt(trabajadoras[7]);    
+        this.seudonimo=trabajadoras[1];
+        this.direccion=trabajadoras[2];
+        this.dni= trabajadoras[3];
+        this.edad= Integer.parseInt(trabajadoras[4]); 
+        this.cuentabancaria=Double.parseDouble(trabajadoras[5]);
+        this.numero= Double.parseDouble(trabajadoras[6]);
+        this.precio= Double.parseDouble(trabajadoras[7]);    
         
     }
     

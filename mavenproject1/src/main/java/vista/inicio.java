@@ -25,7 +25,7 @@ public class inicio {
         menucliente pinky=new menucliente();
         menuprogramador pou =new menuprogramador();
         
-        System.out.println("BIENVENIDO A BABEL");
+        System.out.println("BIENVENIDO A BABELHUB");
         System.out.println("");
         System.out.println("SELECCIONA ENTER PARA EMPEZAR");
         System.out.println("");
